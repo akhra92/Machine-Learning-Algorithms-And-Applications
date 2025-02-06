@@ -13,11 +13,6 @@ The following dependencies were used:
 ### **📂 Project Structure**  
 ```
 Machine-Learning-Algorithms-and-Applications/
-│── Clustering Algorithms/         # Dataset handling and preprocessing
-│── models/           # Model architecture definitions
-│── utils/            # Helper functions
-│── train.py          # Training script
-│── test.py           # Testing script
-│── requirements.txt  # List of dependencies
+│── Clustering Algorithms/         # KMeans and Hierarchial Clustering
 │── README.md         # Project documentation
 ```  
