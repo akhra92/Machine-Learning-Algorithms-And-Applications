@@ -7,7 +7,8 @@ The following dependencies were used:
 - **Python** 3.8  
 - **Scikit Learn**
 - **Matplotlib** 
-- **Pandas** 
+- **Pandas**
+- **Numpy** 
 
 
 ### **📂 Project Structure**  
