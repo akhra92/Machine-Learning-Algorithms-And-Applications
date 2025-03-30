@@ -16,8 +16,8 @@ The following dependencies were used:
 Machine-Learning-Algorithms-and-Applications/
 │── Classification Algorithms/         # KNN, Logistic Regression, Random Forest and SVM
 |── Clustering Algorithms/             # KMeans and Hierarchial Clustering
-|── 
-|── 
+|── Dimensionality Reduction/          # PCA
+|── Natural Language Processing/       # Simple NLP
 |── 
 |── 
 │── README.md         # Project documentation
