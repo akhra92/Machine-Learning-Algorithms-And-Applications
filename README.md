@@ -19,6 +19,6 @@ Machine-Learning-Algorithms-and-Applications/
 |── Dimensionality Reduction/          # PCA
 |── Natural Language Processing/       # Simple NLP
 |── Neural Networks/                   # ANN and CNN
-|── 
+|── Regression Algorithms              # Polynomial, Random Forest, Simple Linear, and SVR
 │── README.md         # Project documentation
 ```  
