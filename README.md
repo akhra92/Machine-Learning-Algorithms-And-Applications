@@ -14,6 +14,11 @@ The following dependencies were used:
 ### **📂 Project Structure**  
 ```
 Machine-Learning-Algorithms-and-Applications/
-│── Clustering Algorithms/         # KMeans and Hierarchial Clustering
+│── Classification Algorithms/         # KNN, Logistic Regression, Random Forest and SVM
+|── Clustering Algorithms/             # KMeans and Hierarchial Clustering
+|── 
+|── 
+|── 
+|── 
 │── README.md         # Project documentation
 ```  
