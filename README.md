@@ -18,7 +18,7 @@ Machine-Learning-Algorithms-and-Applications/
 |── Clustering Algorithms/             # KMeans and Hierarchial Clustering
 |── Dimensionality Reduction/          # PCA
 |── Natural Language Processing/       # Simple NLP
-|── 
+|── Neural Networks/                   # ANN and CNN
 |── 
 │── README.md         # Project documentation
 ```  
