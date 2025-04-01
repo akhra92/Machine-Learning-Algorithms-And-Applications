@@ -4,7 +4,9 @@ This repository implements various **Machine Learning Algorithms** such as **Clu
 
 ### **🛠️ Setup & Requirements**  
 The following dependencies were used:  
-- **Python** 3.8  
+- **Python** 3.8
+- **Pytorch**
+- **Tensorflow**  
 - **Scikit Learn**
 - **Matplotlib** 
 - **Pandas**
